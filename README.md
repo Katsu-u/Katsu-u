@@ -44,9 +44,15 @@
 ### 🛠️ // INSTALLED_SKILLS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,python,nodejs,postgres,mongodb,docker,git,linux&theme=dark" alt="Skill Icons" />
+  <!-- Languages & Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Frontend Skills" />
+  <br/>
+  <!-- Backend, Databases & Hardware -->
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,postgres,mongodb,arduino&theme=dark" alt="Backend & Systems" />
+  <br/>
+  <!-- Tools, Platforms & Design -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,steam&theme=dark" alt="Tools & Platforms" />
 </div>
-
 ---
 
 ### 📊 // SYSTEM_METRICS
