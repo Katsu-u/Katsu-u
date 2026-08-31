@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/silver wolf banner" width="100%" alt="Silver Wolf Banner" />
+  <img src="./assets/silver wolf banner.gif" width="100%" alt="Silver Wolf Banner" />
 
   <br/><br/>
 
