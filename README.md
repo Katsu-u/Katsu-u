@@ -57,15 +57,15 @@
 ### 📊 // SYSTEM_METRICS
 
 <div align="center">
-  <!-- Stats Card (Pure High-Contrast White Text on Void Purple) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Katsu-u&show_icons=true&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&icon_color=ff007f&border_color=00f7ff&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <!-- Stats Card (Static image, non-clickable) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Katsu-u&show_icons=true&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&icon_color=ff007f&border_color=00f7ff&hide_border=false" alt="GitHub Stats" />
 
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card (Static image, non-clickable) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsu-u&layout=compact&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&border_color=ff007f&hide_border=false" alt="Top Languages" />
 
   <br/>
 
-  <!-- Streak Counter (Fixed White Numbers) -->
+  <!-- Streak Counter (Static image, non-clickable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katsu-u&background=0B001A&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF&border=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F7FF&dates=E2E8F0" alt="GitHub Streak" />
 </div>
 
