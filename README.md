@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Banner GIF (Upload your own to assets/ or use drag-and-drop link) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN6c3ZobXN2ZHN3ZDN1NmI5cjhlaGJyYTVpY2U5Mnd2cGQ5bm5xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kud2xZ3e0h09g8UaVv/giphy.gif" width="100%" alt="Silver Wolf Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoZ2piNmc0Mjh4eHRwYmdneDlnb3Z4d255d2htc20xbHF3aTh2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtZ9HNaNrOZ7QocVR3/giphy.gif" width="100%" alt="Silver Wolf Banner" />
 
   <br/><br/>
 
@@ -39,7 +39,7 @@
     </td>
     <td width="40%" align="center">
       <!-- Side GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxeGN1M3IyeTRoM3c5cW5zNzZucmN3eGk0eHNyNWFtcTVoZmQ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgzrTtCXEBiga3820/giphy.gif" width="100%" alt="Silver Wolf Idle" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoZ2piNmc0Mjh4eHRwYmdneDlnb3Z4d255d2htc20xbHF3aTh2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcKpORRzy95ofrqAEp/giphy.gif" width="100%" alt="Silver Wolf Idle" />
     </td>
   </tr>
 </table>
