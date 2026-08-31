@@ -64,6 +64,17 @@
 
 ---
 
+### 🌐 // COMMUNICATION_PROTOCOLS
+
+| Language | Proficiency | Level / Status |
+| :--- | :--- | :--- |
+| **Français** | Native | Native Speaker |
+| **English** | Advanced | C1 |
+| **Español** | Intermediate | B2 |
+| **日本語** | Beginner | Learning `;-;` |
+
+---
+
 ### 📊 // SYSTEM_METRICS
 
 <div align="center">
