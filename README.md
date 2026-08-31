@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/jtZ9HNaNrOZ7QocVR3/giphy.gif" width="100%" alt="Silver Wolf Banner" />
+  <img src="./assets/silver wolf banner" width="100%" alt="Silver Wolf Banner" />
 
   <br/><br/>
 
@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/kcKpORRzy95ofrqAEp/giphy.gif" width="100%" alt="Silver Wolf Idle" />
+      <img src="./assets/silver wolf side.gif" width="100%" alt="Silver Wolf Idle" />
     </td>
   </tr>
 </table>
