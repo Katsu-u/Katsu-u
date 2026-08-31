@@ -57,16 +57,16 @@
 ### 📊 // SYSTEM_METRICS
 
 <div align="center">
-  <!-- GitHub Stats Card (Silver Wolf Palette) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Katsu-u&show_icons=true&bg_color=0f051d&title_color=00f0ff&text_color=e2e8f0&icon_color=ff007f&border_color=00f0ff&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&icon_color=ff007f&border_color=00f7ff&hide_border=false&count_private=true" alt="GitHub Stats" />
   
-  <!-- Top Languages Card (Silver Wolf Palette) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsu-u&layout=compact&bg_color=0f051d&title_color=00f0ff&text_color=e2e8f0&border_color=ff007f&hide_border=false" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&border_color=ff007f&hide_border=false" alt="Top Languages" />
   
   <br/>
   
-  <!-- Streak Counter (Silver Wolf Palette) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katsu-u&background=0F051D&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&border=00F0FF&currStreakNum=FFFFFF&sideLabels=E2E8F0" alt="GitHub Streak" />
+  <!-- Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0B001A&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF&border=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F7FF&dates=E2E8F0" alt="GitHub Streak" />
 </div>
 
 ---
