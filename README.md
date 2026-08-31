@@ -53,6 +53,15 @@
   <!-- Tools, Platforms & Design -->
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,steam&theme=dark" alt="Tools & Platforms" />
 </div>
+
+---
+
+### 🛠️ // TECH_STACK
+
+* 💻 **Languages:** `Python` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Markdown`
+* ⚙️ **DevOps & Tools:** `Docker` • `Linux` • `Git` • `MySQL`
+* 📚 **Learning:** `C` • `Java`
+
 ---
 
 ### 📊 // SYSTEM_METRICS
