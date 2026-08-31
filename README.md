@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/axel-lefebvre-078b233ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=0b001a" alt="LinkedIn" /></a>
+    <!--<a href="https://www.linkedin.com/in/axel-lefebvre-078b233ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=0b001a" alt="LinkedIn" /></a>-->
     <a href="mailto:fukkatsuu.contact@gmail.com"><img src="https://img.shields.io/badge/Email-ff007f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://discord.com/users/593413670516817922"><img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
