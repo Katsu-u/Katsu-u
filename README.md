@@ -16,3 +16,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katsu-u&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Katsu-u&style=flat-square&color=blue" alt="Profile Views" />
+</div>
