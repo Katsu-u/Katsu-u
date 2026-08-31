@@ -1,20 +1,16 @@
 <div align="center">
-  <!-- Top Banner GIF (Upload your own to assets/ or use drag-and-drop link) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoZ2piNmc0Mjh4eHRwYmdneDlnb3Z4d255d2htc20xbHF3aTh2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtZ9HNaNrOZ7QocVR3/giphy.gif" width="100%" alt="Silver Wolf Banner" />
+  <img src="https://i.giphy.com/media/jtZ9HNaNrOZ7QocVR3/giphy.gif" width="100%" alt="Silver Wolf Banner" />
 
   <br/><br/>
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Katsu-u&style=flat-square&color=00f7ff" alt="Profile Views" />
 
   <br/><br/>
 
-  <!-- Typing SVG -->
   <a href="https://github.com/Katsu-u">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Aether+Editing+in+progress...;Super+Hacker+%26+Full-Stack+Dev;Deploying+quantum+payloads..." alt="Typing SVG" />
   </a>
 
-  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/axel-lefebvre-078b233ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=0b001a" alt="LinkedIn" /></a>
     <a href="mailto:fukkatsuu.contact@gmail.com"><img src="https://img.shields.io/badge/Email-ff007f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -38,8 +34,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Side GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoZ2piNmc0Mjh4eHRwYmdneDlnb3Z4d255d2htc20xbHF3aTh2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcKpORRzy95ofrqAEp/giphy.gif" width="100%" alt="Silver Wolf Idle" />
+      <img src="https://i.giphy.com/media/kcKpORRzy95ofrqAEp/giphy.gif" width="100%" alt="Silver Wolf Idle" />
     </td>
   </tr>
 </table>
@@ -57,15 +52,12 @@
 ### 📊 // SYSTEM_METRICS
 
 <div align="center">
-  <!-- Stats Card (Static image, non-clickable) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Katsu-u&show_icons=true&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&icon_color=ff007f&border_color=00f7ff&hide_border=false" alt="GitHub Stats" />
 
-  <!-- Top Languages Card (Static image, non-clickable) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsu-u&layout=compact&bg_color=0b001a&title_color=00f7ff&text_color=ffffff&border_color=ff007f&hide_border=false" alt="Top Languages" />
 
   <br/>
 
-  <!-- Streak Counter (Static image, non-clickable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katsu-u&background=0B001A&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF&border=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F7FF&dates=E2E8F0" alt="GitHub Streak" />
 </div>
 
